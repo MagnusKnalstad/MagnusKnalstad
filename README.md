@@ -4,4 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Architect | Fullstack Developer Engineer
 ----------------------------------------
 
-*   🌍  I'm based in Norway
+Msc in Computer Science. | .NET Specialist, Angular, Vue | |Azure Cloud Adoption | Mobile and Web Development | Machine Learning
+
+* 🌍  I'm based in Norway
